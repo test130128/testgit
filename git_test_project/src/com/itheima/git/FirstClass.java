@@ -10,4 +10,8 @@ public class FirstClass {
         System.out.println("hello");
         System.out.println("hello");
     }
+
+    public void method() {
+        System.out.println("hello");
+    }
 }
