@@ -14,4 +14,8 @@ public class FirstClass {
     public void method() {
         System.out.println("hello");
     }
+
+    public void test3() {
+        System.out.println("hello");
+    }
 }
